@@ -4,4 +4,4 @@ Materials below are two pieces of code showing my implementation on the above tw
 
 The highest accuracy of LSTM_Dense.py is about 0.83361378.
 
-The highest accuracy of LSTM_CNN_Regularization_BatchNormalization.py is about 0.825480769, which is lower than the model of LSTM_Dense.py.
+The highest accuracy of LSTM_CNN_Regularization_BatchNormalization.py is about 0.825480769, which is lower than the model in LSTM_Dense.py.
